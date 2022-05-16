@@ -1,3 +1,4 @@
+package basics
 
 val PI = 3.14
 var q = 0
